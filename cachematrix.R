@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## creates a list of functions to store a matrix and cache its inverse
+## checks for a cached inverse and computes it if not already cached, leveraging this cache to avoid redundant calculations.
 
 ## create a list that stores a matrix and its inverse.
 
